@@ -7,7 +7,7 @@ public class ifdianyingpiaopanduan {
         Scanner sc = new Scanner(System.in);
         System.out.println("请录入一个票号");
         int ticker = sc.nextInt();
-
+//1111111111111
         if (ticker >= 0 && ticker <= 100 ){
 
           if (ticker % 2 == 0 ){
